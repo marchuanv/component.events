@@ -1,0 +1,25 @@
+{
+  "name": "component.events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "component.events.js",
+  "engines": {
+    "node": "14.12.0",
+    "npm": "6.14.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchuanv/component.events.git"
+  },
+  "author": "Marchuan Van Der Merwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marchuanv/component.events/issues"
+  },
+  "homepage": "https://github.com/marchuanv/component.events#readme",
+  "dependencies": {
+    "utils": "marchuanv/utils",
+    "component.messagebus": "marchuanv/component.messagebus",
+    "component.logging": "marchuanv/component.logging"
+  }
+}
